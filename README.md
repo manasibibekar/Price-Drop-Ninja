@@ -1,6 +1,6 @@
 # Price Drop Ninja
 
-Price Drop Ninja is a web scraping tool for Amazon that extracts daily prices from a given URL and notifies users via email when a product's price drops below their specified threshold. The tool is designed to save users valuable time and effort by automating the process of collecting accurate and up-to-date data. With Price Drop Ninja, users can make informed purchasing decisions and take advantage of cost savings opportunities.
+Price Drop Ninja is a web scraping tool for Amazon that extracts daily prices from a given URL and notifies users via email when a product's price drops below their specified threshold. The tool is designed to save users' valuable time and effort by automating the process of collecting accurate and up-to-date data. With Price Drop Ninja, users can make informed purchasing decisions and take advantage of cost savings opportunities.
 
 ## Getting Started
 
